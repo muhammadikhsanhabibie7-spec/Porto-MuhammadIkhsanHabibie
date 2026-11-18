@@ -7,6 +7,7 @@ Website Portofolio **Muhammad Ikhsan Habibie** (D3 Manajemen Informatika - Polit
 - **Portofolio (GitHub Pages):** https://muhammadikhsanhabibie7-spec.github.io/Porto-MuhammadIkhsanHabibie/
 - **React Login & Auth System E-Wallet — Style 27 (Vercel):** https://uts-muhammadikhsanhabibie-style27.vercel.app/
 - **Relaska Computer — E-Commerce & PC Builder (InfinityFree):** http://relaska-computer.rf.gd/
+- **Desain UI/UX Relaska Computer (Figma):** https://www.figma.com/design/8WkLAqdSWjYGXAi2ILYFN1/RELASKA?node-id=0-1&p=f&t=i8K8cpO0fb3n2oWX-0
 
 ## Daftar Repositori Proyek
 
